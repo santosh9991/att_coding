@@ -1,5 +1,8 @@
 # att_coding
 This project exposes an API endpoint that provides the list of open issues for all public repositories owned by the att organisation. It also includes issue comments, if any. 
+
+
+
 PRE-REQUIREMENTS:
 Python2.7
 pip
@@ -19,6 +22,7 @@ Run the Virtualenv:
 Pull the code into local machine and navigate to root directory.
 Install project dependencies using pip install -r requirements.txt
 Add .env file to the project root directory to add 
-Running the application
+Running the application:
+
  
 
