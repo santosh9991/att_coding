@@ -31,7 +31,7 @@ social-auth-app-django==2.1.0
 social-auth-core==1.6.0
 socketpool==0.5.3
 traitlets==4.3.2
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
 win-unicode-console==0.5
 zope.interface==4.4.3
